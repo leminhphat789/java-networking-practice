@@ -1,0 +1,8 @@
+$ java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8 -cp build/classes vn.viettuts.client.ClientExample 127.0.0.1 61436
+
+Connecting to 127.0.0.1 on port 61436
+Just connected to /127.0.0.1:61436
+Server says Thank you for connecting to /127.0.0.1:61436
+Goodbye!
+
+[exit code: 0]

@@ -1,0 +1,7 @@
+build/
+bin/
+*.class
+.idea/
+.vscode/
+.settings/
+__pycache__/

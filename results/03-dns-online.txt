@@ -1,0 +1,19 @@
+$ java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8 -cp build/classes com.gpcoder.net.InetAddressExample
+
+Host Name: <REDACTED_HOSTNAME>
+IP Address: <REDACTED_PRIVATE_IP>
+
+Host Name: www.studytonight.com
+IP Address: 172.67.198.108
+
+All address of google: 
+www.google.com/142.251.153.119
+www.google.com/142.251.157.119
+www.google.com/142.251.150.119
+www.google.com/142.251.152.119
+www.google.com/142.251.156.119
+www.google.com/142.251.155.119
+www.google.com/142.251.151.119
+www.google.com/142.251.154.119
+
+[exit code: 0]

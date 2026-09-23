@@ -1,0 +1,11 @@
+$ javac -encoding UTF-8 -Xlint:all -d build/classes src\com\gpcoder\net\InetAddressExample.java src\com\gpcoder\net\URLConnectionExample.java src\com\gpcoder\net\UrlExample.java src\vn\viettuts\client\ClientExample.java src\vn\viettuts\server\ServerExample.java
+
+src\com\gpcoder\net\URLConnectionExample.java:12: warning: [deprecation] URL(String) in URL has been deprecated
+            URL url = new URL("https://www.w3schools.com/");
+                      ^
+src\com\gpcoder\net\UrlExample.java:10: warning: [deprecation] URL(String) in URL has been deprecated
+            URL url = new URL("https://www.gpcoder.com:80/java/index.html?page=1&amp;amp;amp;order=desc#java-core");
+                      ^
+2 warnings
+
+[exit code: 0]

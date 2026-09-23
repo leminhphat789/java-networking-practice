@@ -1,0 +1,9 @@
+$ java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8 -cp build/classes vn.viettuts.server.ServerExample 0
+
+Waiting for client on port 61436...
+Just connected to /127.0.0.1:61437
+Hello from /127.0.0.1:61437
+Waiting for client on port 61436...
+Socket timed out!
+
+[exit code: 0]

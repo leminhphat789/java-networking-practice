@@ -1,0 +1,14 @@
+$ java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8 -cp build/classes com.gpcoder.net.UrlExample
+
+URL : https://www.gpcoder.com:80/java/index.html?page=1&amp;amp;amp;order=desc#java-core
+protocol : https
+authority : www.gpcoder.com:80
+file name : /java/index.html?page=1&amp;amp;amp;order=desc
+host : www.gpcoder.com
+path : /java/index.html
+port : 80
+default port : 443
+query : page=1&amp;amp;amp;order=desc
+ref : java-core
+
+[exit code: 0]
